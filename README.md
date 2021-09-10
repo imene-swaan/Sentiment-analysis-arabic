@@ -6,7 +6,7 @@ Title of thesis: Predictive sentiment analysis of tweets using natural language 
 
 Case study: Arabic Twittersphere
 
-Grade: 18/20
+Test accuracy: 81%
 
 
 Project:
